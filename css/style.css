@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    height: 50px;
+    background-color: blueviolet;
+    text-align: center;
+    color: azure;
+}
+nav{
+    height: 50px;
+    background-color:tomato;
+    text-align: center;
+    color: azure;
+}
+
+.main-section{
+    height: 400px;
+    width: 100%;
+    display: flex;
+}
+.left-box{
+    height: 100%;
+    width: 70%;
+    background-color: aqua;
+    text-align: center;
+}
+.right-box{
+    height: 100%;
+    width: 30%;
+    background-color: rgb(60, 13, 168);
+    text-align: center;
+}
+.top{
+    height: 50%;
+    background-color: bisque;
+
+}
+
+.bootom{
+    height: 50%;
+    background-color: blue;
+    color: aliceblue;
+}
+footer{
+    height: 70px;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
